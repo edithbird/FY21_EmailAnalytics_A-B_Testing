@@ -1,4 +1,4 @@
-ABTestName,TestType,IsWinner,TestDistribution,JobID,TestConditions,PercentOfSend,SendDate,SendCount,Opens,OpenRate,Clicks,ClickRate,Bounces,BounceRate,Unsubs,UnsubRate,Shares,Deliveries,DeliveryRate,Conversions
+ABTestName,TestType,IsWinner,0,JobID,TestConditions,PercentOfSend,SendDate,SendCount,Opens,OpenRate,Clicks,ClickRate,Bounces,BounceRate,Unsubs,UnsubRate,Shares,Deliveries,DeliveryRate,Conversions
 A/B Test Name:  FY21 Adult App Gen ? Email 02,Email,FALSE,A,1274531,FY21 Adult App Gen ? Email 02 (Version A),25.00%,10/13/2020 18:00,265,43,16.23%,2,0.75%,0,0.00%,0,0.00%,0,265,100.00%,0
 A/B Test Name:  FY21 Adult App Gen ? Email 02,Email,TRUE,B,1274532,FY21 Adult App Gen ? Email 02 (Version B),25.00%,10/13/2020 18:01,265,42,15.85%,3,1.13%,0,0.00%,0,0.00%,0,265,100.00%,0
 A/B Test Name:  FY21 Adult App Gen ? Email 02,Email,,Remainder,1276335,FY21 Adult App Gen ? Email 02 (Version B),50.00%,10/14/2020 18:01,534,92,17.33%,8,1.51%,3,0.56%,2,0.38%,0,531,99.44%,0
@@ -17,3 +17,5 @@ A/B Test Name:  FY21 Adult App Gen ? Email 01,Email,,Remainder,1239928,FY21 Adul
 A/B Test Name:  FY21 High School App Gen ? Email 03,Email,FALSE,A,1250305,FY21 High School App Gen ? Email 03 (Version A),24.99%,09/30/2020 18:01,753,136,18.06%,14,1.86%,0,0.00%,5,0.66%,4,753,100.00%,0
 A/B Test Name:  FY21 High School App Gen ? Email 03,Email,TRUE,B,1250306,FY21 High School App Gen ? Email 03 (Version B),24.99%,09/30/2020 18:01,753,125,16.67%,17,2.27%,3,0.40%,3,0.40%,2,750,99.60%,0
 A/B Test Name:  FY21 High School App Gen ? Email 03,Email,,Remainder,1252276,FY21 High School App Gen ? Email 03 (Version B),50.02%,10/01/2020 18:02,"1,507",246,16.43%,26,1.74%,10,0.66%,12,0.80%,4,"1,497",99.34%,0
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,12802,2484,3.2258,211,0.3172,65,0.0715,51,0.0503,17,12737,17.9285,0

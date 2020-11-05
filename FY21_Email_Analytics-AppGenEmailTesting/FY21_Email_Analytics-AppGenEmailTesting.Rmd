@@ -73,8 +73,10 @@ __Data__
 ```{r}
 kable(data %>% 
         arrange(SendDate) %>% 
-        select(SendDate, TestConditions,  ClickRate, OpenRate,UnsubRate, BounceRate) %>% 
-        mutate(TestConditions = str_split("\\&")))
+        mutate(TestConditions = substring(TestConditions, 16),) %>% 
+        select(SendDate, TestConditions,  ClickRate, OpenRate,UnsubRate, BounceRate) )
+      #%>% 
+        #separate(TestConditions, c('Test', 'Conditions'), sep="?"))
 ```
 
 __Margin Figures__
